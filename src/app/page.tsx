@@ -1,9 +1,12 @@
 // import Image from "next/image";
-// import styles from "./page.module.css";
+import {DSANavBar} from "../presentation/components";
+
 
 export default function Home() {
   return (
     <>
+    <DSANavBar/>
+    
     </>
   );
 }

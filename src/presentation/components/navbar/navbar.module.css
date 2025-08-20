@@ -1,0 +1,31 @@
+.header{
+    width: 100vw;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.nav{
+    width: 85%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav h1{
+    cursor: pointer;
+    color:#CD5C5C
+}
+.list{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.list li{
+    list-style: none;
+    cursor: pointer;
+
+}
