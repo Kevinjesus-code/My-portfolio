@@ -15,7 +15,7 @@
 }
 .nav h1{
     cursor: pointer;
-    color:#CD5C5C
+    color:rgb(205, 92, 92)
 }
 .list{
     width: 50%;
@@ -27,5 +27,11 @@
 .list li{
     list-style: none;
     cursor: pointer;
+    font-weight: 500;
+    font-size: 16px;
 
+}
+.span{
+    color: #fff;
+    font-size:28px
 }

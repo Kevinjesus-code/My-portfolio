@@ -1,10 +1,13 @@
 import React from 'react'
+import {DSANavBar} from "@/presentation/components";
 
-const page = () => {
+const Page = () => {
+  
   return (
     <>
+      <DSANavBar/>
     </>
   )
 }
 
-export default page
+export default Page

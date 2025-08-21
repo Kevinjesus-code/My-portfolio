@@ -1,12 +1,10 @@
-// import Image from "next/image";
-import {DSANavBar} from "../presentation/components";
 
+import DSAPage from "./pages/page";
 
 export default function Home() {
   return (
     <>
-    <DSANavBar/>
-    
+    <DSAPage/>
     </>
   );
 }
